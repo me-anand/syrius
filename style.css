@@ -37,7 +37,7 @@ h2{
 .body{
     height: 1000px;
     width: 100%;
-    background-color: bisque;
+    background-color: rgb(150, 100, 39);
     margin-top: -400px;
     z-index: -100;
 }
